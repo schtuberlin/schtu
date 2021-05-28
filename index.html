@@ -5,6 +5,21 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <style>
+ * {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ .imgbox {
+  display: grid;
+  height: 100%;
+ }
+ 
+ .center-fit {
+  max-width: 1000%;
+  max-height: 100vh;
+  margin: auto;
+ }
  
 .fa {
   padding: 20px;
@@ -35,9 +50,11 @@
 
 <body>
 
-<a href="https://soundcloud.com/schtu">
-<img src="./Schtu Profile Pic Wide.jpg">
-<a>
+<div class="imgbox">
+ <a href="https://soundcloud.com/schtu">
+  <img class="center-fit" src="./Schtu Profile Pic Wide.jpg">
+ <a>
+</div>
 <a href="https://www.facebook.com/schtu" class="fa fa-facebook"></a>
 <a href="https://twitter.com/schtu_berlin" class="fa fa-twitter"></a>
 
