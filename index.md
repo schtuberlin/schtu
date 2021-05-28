@@ -40,6 +40,7 @@
 <img src="./Schtu Profile Pic Wide.jpg">
 <a>
 <a href="https://www.facebook.com/schtu" class="fa fa-facebook"></a>
+<a href="https://twitter.com/schtu_berlin" class="fa fa-twitter"></a>
 
 
 </body>
