@@ -10,6 +10,7 @@
   padding: 20px;
   font-size: 30px;
   width: 50px;
+  height: 50px;
   text-align: center;
   text-decoration: none;
 }
