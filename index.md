@@ -1,4 +1,4 @@
 <a href="https://soundcloud.com/schtu">
-  <img src="./IMG_5946.jpg">
+  <img src="./Schtu Profile Pic Wide.jpg">
 </a>
   
