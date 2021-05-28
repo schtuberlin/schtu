@@ -35,11 +35,12 @@
 
 <body>
 
-
-
-
-</body>
 <a href="https://soundcloud.com/schtu">
 <img src="./Schtu Profile Pic Wide.jpg">
 <a>
+<a href="https://www.facebook.com/schtu" class="fa fa-facebook"></a>
+
+
+</body>
+
 </html>
